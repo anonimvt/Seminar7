@@ -1,0 +1,15 @@
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\bin\Debug\net7.0\Task52.exe
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\bin\Debug\net7.0\Task52.deps.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\bin\Debug\net7.0\Task52.runtimeconfig.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\bin\Debug\net7.0\Task52.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\bin\Debug\net7.0\Task52.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.csproj.AssemblyReference.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.AssemblyInfoInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.AssemblyInfo.cs
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\refint\Task52.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\Task52.genruntimeconfig.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar7\Task52\obj\Debug\net7.0\ref\Task52.dll
